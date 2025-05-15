@@ -1,4 +1,4 @@
-# Electric Load Forecasting Using Data Mining Techniques
+# Electric Load Forecasting Using Machine Learning
 
 This repository contains an end-to-end implementation of electricity demand forecasting using data mining and machine learning techniques. The project uses the Kaggle dataset of hourly electricity demand and weather measurements for ten major U.S. cities.
 # Dataset
